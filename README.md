@@ -7,7 +7,6 @@
 
 ### 👨‍💻 About Me  
 - 🌱 I am a **Frontend Developer** specialized in **React.js**  
-- 💻 Currently working as a **Frontend Developer** on a project: **Health Appointment System**  
 - 📫 Reach me at: [smingma767@gmail.com](mailto:smingma767@gmail.com)  
 
 ---
