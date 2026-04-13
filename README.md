@@ -4,9 +4,8 @@
 
 
 ###  About Me : 
--  I am a **Frontend Developer** specialized in **React.js**  
 -  Reach me at: [smingma767@gmail.com](mailto:smingma767@gmail.com)  
-
+- Currently learning: Data Science with Python.
 ---
 
 ### 🔗 Connect with Me
